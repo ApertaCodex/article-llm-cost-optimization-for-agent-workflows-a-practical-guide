@@ -530,19 +530,3 @@ Apply these in order of impact: model routing first (highest , lowest implementa
 The discipline that separates teams who sustain these savings from teams who don't is instrumentation. Cost optimization without quality monitoring is just risk transfer. Measure both, and treat any divergence between cost trends and quality trends as an incident worth investigating.
 
 Omnithium’s platform provides built-in cost controls, model routing, and prompt caching to make these optimizations automatic, lowering your inference spend without degrading performance. Start streamlining your agent costs on [Omnithium](https://omnithium.ai) and check out [pricing](https://omnithium.ai/pricing) for your scale.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/llm-cost-optimization-agents).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
